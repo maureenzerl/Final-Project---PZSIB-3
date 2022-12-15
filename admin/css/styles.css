@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+body {
+    font-family: "Poppins", sans-serif !important;
+}
+
+.cards1 {
+    border: none !important;
+    box-shadow: 5px 5px 10px black !important;
+    width: 500px !important;
+}
+
+.single-input {
+    border-radius: 50px !important;
+}
+
+.btnlogin {
+    color: white;
+    border-radius: 50px !important;
+}
+
+.btnlogin:hover {
+    background-color: #3A8891 !important;
+    color: white;
+}
+
+.options {
+    text-decoration: none;
+}
+
+.options:hover {
+    color: #3A8891 !important;
+}
+
+/* http://programmermania.blogspot.com/2015/04/tutorial-cara-membuat-aplikasi-berita.html */
+/* https://repository.uksw.edu/bitstream/123456789/3359/4/T0_562010020_BAB%20III.pdf */
+/* https://ilmu-detil.blogspot.com/2016/01/fungsi-php-untuk-cuplikan-berita.html */

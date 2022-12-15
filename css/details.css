@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+body {
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+}
+
+.nav1 {
+    position: fixed !important;
+    top: 0 !important;
+    width: 100% !important;
+    z-index: 3 !important;
+    height: 80px !important;
+}
+
+h3 {
+    color: white !important;
+    font-weight: bolder !important;
+}
+
+.nav-link {
+    color: #212529 !important;
+}
+
+.formsrc {
+    border: 1px solid #212529 !important;
+    text-decoration: none !important;
+}
+
+.srch1 {
+    color: #212529 !important;
+    border: none !important;
+    padding: 10px;
+}
+
+.btnsrc {
+    color: #212529 !important;
+}
+
+.nav2 {
+    font-size: larger !important;
+    margin-top: 80px !important;
+}
+
+.nav-link:hover {
+    font-weight: bolder !important;
+}
+
+main {
+    padding: 3rem 20% !important;
+}
+
+.img1 {
+    height: 600px !important;
+}
+
+.paragraph1 {
+    text-align: justify !important;
+}
+
+.cards1 {
+    background-color: transparent !important;
+    color: white !important;
+    border: none !important;
+    box-shadow: 5px 5px 10px black !important;
+}
+
+.headnews {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.headnews:hover {
+    color: #6D67E4 !important;
+}
+
+.btn-readmore:hover {
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black !important;
+    padding: 20px 50px !important;
+}
+
+.ftr-left .ftr-right {
+    padding: 0 5rem !important;
+}
+
+.ftr-mid {
+    padding: 0 5rem !important;
+    /* border-left: 2px solid black !important; */
+}
+
+.input-subs {
+    color: #212529 !important;
+    border: none !important;
+    padding: 10px !important;
+    border: 1px solid #212529 !important;
+    text-decoration: none !important;
+}
+
+.btn-subs {
+    margin-top: 1rem !important;
+    background-color: #212529 !important;
+    color: white !important;
+    font-weight: 400 !important;
+    font-size: larger !important;
+}
+
+.logo-img {
+    margin: 2rem -1rem !important;
+}
+
+.ftr-right a {
+    text-decoration: none !important;
+}
+
+.ftr1 {
+    list-style: none;
+    padding: 0 !important;
+}
+
+.logo-ftr a {
+    color: black !important;
+}
+
+.logo-ftr i {
+    margin: 20px !important;
+}
